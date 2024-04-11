@@ -1,0 +1,7 @@
+streamlit
+spacy
+displacy
+collections
+counter
+en_core_web_sm
+pprint

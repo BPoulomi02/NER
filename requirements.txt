@@ -1,7 +1,7 @@
-streamlit
-spacy
-displacy
-collections
-counter
-en_core_web_sm
-pprint
+import streamlit
+import spacy
+import displacy
+import collections
+import counter
+import en_core_web_sm
+import pprint
